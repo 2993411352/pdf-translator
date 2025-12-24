@@ -1,1 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;.textLayer{opacity:1;mix-blend-mode:normal;z-index:10}.textLayer ::selection{background:#00f3;color:transparent}.textLayer span,.textLayer br{color:transparent;cursor:text}
